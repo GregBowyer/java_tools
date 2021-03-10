@@ -1,5 +1,11 @@
 # Bazel Tools for Java
 
+:warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning:
+These are not the tools you are looking for, go ask bazel upstream.
+
+These exist to let ijar and singlejar work on older linux versions due to GLIBC symbols
+:warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning: :warning:
+
 This is a repository for the tools used by [Bazel](https://bazel.build/) to compile Java.
 
 The source code of the Bazel Tools for Java is currently checked in the [bazel
